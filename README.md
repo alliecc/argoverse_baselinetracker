@@ -23,6 +23,7 @@ To run this tracker, please install following requirements:
 - [pcl 1.8](https://askubuntu.com/questions/916260/how-to-install-point-cloud-library-v1-8-pcl-1-8-0-on-ubuntu-16-04-2-lts-for) and [python-pcl](https://github.com/strawlab/python-pcl) binding
 - Download [smallestenclosingcircle.py](https://www.nayuki.io/res/smallest-enclosing-circle/smallestenclosingcircle.py)
 - Download [MinimumBoundingBox](https://github.com/BebeSparkelSparkel/MinimumBoundingBox)
+- Download Argoverse Tracking dataset from [Argoverse official website](https://www.argoverse.org/data.html).
 
 
 example:
