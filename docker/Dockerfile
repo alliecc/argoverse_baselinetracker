@@ -108,7 +108,7 @@ RUN conda install -y -c conda-forge jsoncpp=0.10.6 qt pyvtk pyside envisage mesa
 
 RUN rm libeigen3-dev_3.2.5-4_all.deb
 
-#For kitti dataset support
-RUN cd pykitti
-RUN python setup.py install
-RUN cd ..
+#For kitti dataset support(deprecated)
+#RUN cd pykitti
+#RUN python setup.py install
+#RUN cd ..
