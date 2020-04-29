@@ -1,3 +1,6 @@
+[update 04/2020]
+See our new baseline with much improved detection here: https://github.com/johnwlambert/argoverse_cbgs_kf_tracker
+
 # Argoverse Baseline Tracker
 
 ## 
