@@ -1,5 +1,6 @@
 [update 04/2020]
-See our new baseline with much improved detection here: https://github.com/johnwlambert/argoverse_cbgs_kf_tracker
+The new CVPR2020 argoverse tracking challenge provides detections! See our new baseline using the provided, improved detections here: https://github.com/johnwlambert/argoverse_cbgs_kf_tracker
+Link to download the new detections: https://s3.amazonaws.com/argoai-argoverse/detections_v1.1b.zip
 
 # Argoverse Baseline Tracker
 
