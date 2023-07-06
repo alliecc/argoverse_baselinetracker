@@ -13,5 +13,5 @@ setup(
         "Programming Language :: Python :: 3",
     ],
     py_modules=["MinimumBoundingBox"],
-    install_requires=["scipy==0.18.1", "numpy==1.11.2"],
+    install_requires=["scipy==1.10.0", "numpy==1.11.2"],
 )
